@@ -3,8 +3,10 @@ body {
     font-family: Arial, sans-serif;
     padding: 0;
     height: 90vh;
-    background-image: url("background.png");
+    color: white;
+    background-image: url("background2.png");
     background-size: cover;
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
 
@@ -20,7 +22,7 @@ body {
 
 
   .navbar {
-    background-color: #333;
+    background-color: #0a4b5e;
     overflow: hidden;
   }
 
@@ -34,12 +36,12 @@ body {
   }
 
   .navbar a:hover {
-    background-color: #575757;
+    background-color: #309bae;
     color: white;
   }
 
   .navbar a.active {
-    background-color: #04AA6D;
+    background-color: #309bae;
     color: white;
   }
 
