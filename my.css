@@ -39,6 +39,26 @@ html, body {
   background-repeat: no-repeat;
 }
 
-.start-text {
+.start-element {
     z-index: 2;
+}
+
+.start-text {
+  cursor: pointer;
+}
+
+.start-text:hover {
+  color: #BDB9B9 !important;
+}
+
+.light-text {
+  font-weight: lighter !important;
+}
+
+.smaller-text {
+  font-size: 20px !important;
+}
+
+.bolder-text {
+  font-weight: 700 !important;
 }
