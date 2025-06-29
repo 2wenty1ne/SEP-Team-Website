@@ -26,14 +26,13 @@ html, body {
 }
 
 .start-div-blur {
-    background-color: rgba(32, 41, 64, 0.6);
-    
+    background-color: rgba(4, 14, 40, 0.6);
     z-index: 1;
 }
 
 .start-div {
   background-image: url('/img/hintergrund-start.jpg');
-  filter: blur(2.5px);
+  filter: blur(4px);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

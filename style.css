@@ -106,6 +106,64 @@
     line-height: normal;
 }
 
+.website .linien-text {
+    position: absolute;
+    width: 293px;
+    top: 30px;
+    left: 16px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website .station-text {
+    position: absolute;
+    width: 293px;
+    top: 25px;
+    left: 16px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website .tool-text {
+    position: absolute;
+    width: 293px;
+    top: 28px;
+    left: 16px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.website .operations-text {
+    position: absolute;
+    width: 293px;
+    top: 28px;
+    left: 16px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+
+
 .website .text-wrapper {
     font-family: "Open Sans-Regular", Helvetica;
     font-weight: 400;
@@ -322,7 +380,7 @@
     position: absolute;
     width: 1060px;
     height: 1px;
-    top: 88px;
+    top: 83px;
     left: 430px;
     object-fit: cover;
 }
