@@ -59,6 +59,14 @@ html, body {
   font-size: 20px !important;
 }
 
+.medium-txt {
+  font-size: 48px !important;
+}
+
+.bigger-text {
+  font-size: 32px !important;
+}
+
 .bolder-text {
   font-weight: 700 !important;
 }
